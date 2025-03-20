@@ -32,8 +32,5 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chocolattito&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shockwarp) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
