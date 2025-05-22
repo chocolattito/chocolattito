@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🇦🇷 From Argentina<br>💬 Español & English<br>
 🔭 Working on: password manager & bookshop product visualizer (both school projects)<br>
-<!--🌱 Experience with Python, JavaScript, HTML, CSS<br>-->
 ⚡ Fun fact: I'm a guitarist, I write and produce music
+<!--🌱 Experience with Python, JavaScript, HTML, CSS<br>-->
 
 
 # 💻 Tech Stack:
