@@ -1,5 +1,10 @@
 ## Hello, visitor! ^-^ 🤍
 
+"So where are we buying now?
+'Cause nothing in this life's that free.
+No harm, no foul, no sleep.
+Everything's right where it's supposed to be."
+
 <!--
 **chocolattito/chocolattito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,8 +33,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chocolattito&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolattito&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chocolattito&limit=5&theme=dark&combine_all_yearly_contributions=true)
