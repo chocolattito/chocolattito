@@ -23,7 +23,7 @@ Drive far awayy
 -->
 
 # 🥐 About Me:
-🇦🇷 From Argentina<br>💬 Español & English<br>
+🇦🇷 From Buenos Aires, Argentina<br>💬 Español & English<br>
 🔭 Working on: password manager & bookshop product visualizer (both school projects)<br>
 ⚡ Fun fact: I'm a guitarist, I write and produce music
 <!--🌱 Experience with Python, JavaScript, HTML, CSS<br>-->
